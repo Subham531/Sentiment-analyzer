@@ -1,4 +1,5 @@
- Assamese Sentiment Analyzer
+Assamese Sentiment Analyzer:
+
 This project focuses on building a sentiment analysis model for the Assamese language, a low-resource Indo-Aryan language spoken primarily in the northeastern region of India. The project was developed as part of a collaborative research effort to bring Natural Language Processing (NLP) capabilities to underrepresented Indian languages.
 
 📌 Key Highlights
