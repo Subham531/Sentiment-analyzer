@@ -25,7 +25,7 @@ Model	BiLSTM (Keras / TensorFlow)
 Libraries	NumPy, Pandas, Pytorch, scikit-learn, Matplotlib
 Visualization Classification report
 Version Control	GitHub
-Deployment (optional)	Hugging Face Model Hub
+
 
 📁 Project Structure
 bash
