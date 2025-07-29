@@ -52,7 +52,7 @@ Clone the repository
 bash
 Copy
 Edit
-git clone https://github.com/your-username/sentiment-analyzer.git
+git clone https://github.com/Subham531/sentiment-analyzer.git
 cd sentiment-analyzer
 Install dependencies
 
