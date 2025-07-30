@@ -82,7 +82,7 @@ Provide a starting point for future multilingual NLP projects in Indic languages
 🤝 Contributors
 Team
 - Subham Das
-- Pulakala Pritvi Raj
+- Pulakala Pritvi Raj - [@pprithviraj-dev](https://github.com/pprithviraj-dev)
 - Arpita Baruah
 - Bhupali Das
 
